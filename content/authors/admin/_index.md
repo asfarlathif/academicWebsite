@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Genome Science and Technology
       institution: Stanford University
-      year: 2020-
+      year: 2020 -
     - course: BTech in Biotechnology
       institution: BSA Crescent Institute of Science and Technology
-      year: 2016-2020
+      year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
