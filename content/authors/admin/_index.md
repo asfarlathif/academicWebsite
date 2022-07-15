@@ -26,11 +26,11 @@ interests:
 education:
   courses:
     - course: PhD in Genome Science and Technology
-      institution: Stanford University
-      year: 2020 -
+      institution: UBC
+      year: 2020-
     - course: BTech in Biotechnology
       institution: BSA Crescent Institute of Science and Technology
-      year: 2016 - 2020
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'asfar.lathif@ubc.ca'
+    link: 'mailto:asfar.lathif@ubc.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/asfarlathif
