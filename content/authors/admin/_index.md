@@ -54,8 +54,9 @@ social:
     link: https://www.linkedin.com/in/asfarlathif/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
+# and uncomment the lines below to make CV as a downloadable option.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
   - icon: cv
     icon_pack: ai
     link: uploads/CV_AsfarLathif.pdf
@@ -69,6 +70,4 @@ highlight_name: true
 
 I am a PhD student at the deBoer lab at UBC, Vancouver. My research include understanding the regulatory code of eukaryotic genes and to decipher the role of non-coding mutations in cancers.
 
----
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
----
+
