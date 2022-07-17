@@ -7,10 +7,11 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 35
 
 title: Skills
 subtitle:
+
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -24,15 +25,15 @@ feature:
     icon: desktop
     icon_pack: fa
     name: Computational
+  - description: Statistics, Shiny, Tidyverse
+    icon: chart-line
+    icon_pack: fa
+    name: Data Science
   # - description: 10%
   #   icon: dna
   #   icon_pack: fa
   #   name: Photography
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
+
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
@@ -42,4 +43,5 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
 ---

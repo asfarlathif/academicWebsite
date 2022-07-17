@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: '' 
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
+    date_start: '2022-03-27'
+    description: 'Check out our work on disease status classification model from gut microbiota [here]("https://github.com/muntakimrafi/PharmaHacks2022_AR-r-OW")'
+    organization: Major League Hacking
+    organization_url: 'https://pharmahacks.com/'
+    title: Pharmhacks - 3rd Place
+    url: 'https://devpost.com/software/microbiome-disease-prediction-with-xgboost'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'

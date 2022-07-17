@@ -13,11 +13,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-# date: '2021-09-25T00:00:00Z'
+# date: '2021-11-25T00:00:00Z'
 doi: 'https://doi.org/10.1007/s12010-021-03743-1'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2021-11-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ publication_short: []
 abstract: Different metabolic and hormonal disorders like type 2 diabetes mellitus (T2DM), obesity, and polycystic ovary syndrome (PCOS) have tangible socio-economic impact. Prevalence of these metabolic and hormonal disorders is steadily increasing among women. There are clinical evidences that these physiological conditions are related to the manifestation of different gynecological cancers and their poor prognosis. The relationship between metabolic and hormonal disorders with gynecological cancers is quite complex. The need for gene level association study is extremely important to find markers and predicting risk factors. In the current work, we have selected metabolic disorders like T2DM and obesity, hormonal disorder PCOS, and 4 different gynecological cancers like endometrial, uterine, cervical, and triple negative breast cancer (TNBC). The gene list was downloaded from DisGeNET database (v 6.0). The protein interaction network was constructed using HIPPIE (v 2.2) and shared proteins were identified. Molecular comorbidity index and Jaccard coefficient (degree of similarity) between the diseases were determined. Pathway enrichment analysis was done using ReactomePA and significant modules (clusters in a network) of the constructed network was analyzed by MCODE plugin of Cytoscape. The comorbid conditions like PCOS-obesity found to increase the risk factor of ovarian and triple negative breast cancers whereas PCOS alone has highest contribution to the endometrial cancer. Different gynecological cancers were found to be differentially related to the metabolic/hormonal disorders and comorbid condition.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: 
 
 tags: []
 
@@ -41,7 +41,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: URL
   url: https://link.springer.com/article/10.1007/s12010-021-03743-1
 
 url_pdf: ''
