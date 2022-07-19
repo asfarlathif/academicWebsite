@@ -68,6 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the deBoer lab at UBC, Vancouver. My research include understanding the regulatory code of eukaryotic genes and to decipher the role of non-coding mutations in cancers.
+I am a PhD student at the [deBoer lab]("https://deboer.bme.ubc.ca/") at UBC, Vancouver. My research include understanding the regulatory code of eukaryotic genes and to decipher the role of non-coding mutations in cancers. When not in the lab, you can find me experimenting in the kitchen or enjoying walk along a beach
 
 
